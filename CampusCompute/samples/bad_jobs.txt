@@ -1,0 +1,4 @@
+# bad job file for error-handling test
+1 0 5 2
+2 1 abc 1
+3 2
